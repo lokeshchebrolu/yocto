@@ -1,0 +1,5 @@
+1. Working beaglebone black yocto project build 
+SD card booting is working fine.
+eMMC flashing is not working fine, need to check
+It has some personal repo and configuration of the website guy
+link: https://jumpnowtek.com/beaglebone/BeagleBone-Systems-with-Yocto.html
